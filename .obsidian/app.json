@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "vimMode": true,
+  "attachmentFolderPath": "attactments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "garden"
+}

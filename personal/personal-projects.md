@@ -1,0 +1,5 @@
+- [ ] AI 
+- [ ] HTTP-Server in C
+- [ ] Blog website
+	- [ ] reference: 
+- [ ] Portfolio

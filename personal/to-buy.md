@@ -1,0 +1,13 @@
+- [ ] tai nghe dây 
+- [ ] Đèn bàn (đọc sách)
+- [ ] clock box 
+- [ ] Bàn gấp gỗ tre + giá vẽ
+- [ ] ghế xoay mới 
+- [ ] mic bàn 
+- [ ] kệ nhỏ nhiều ngăn 
+- [ ] kệ đề đồ nhỏ (2-3 ngăn)
+- [ ] máy đọc sách (đọc sách, ghi chú, vẽ,...)
+      1 in these:
+	- [ ] Máy đọc sách Kindle Scribe 2022 (1st-generation)
+	- [ ] REMARKABLE 2
+	- [ ] 

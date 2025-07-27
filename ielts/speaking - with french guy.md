@@ -1,0 +1,8 @@
+- Bonjour, je m’appelle Khánh. Enchanté(e).
+- My name is Khánh, but you can call me Kenny, or simply Ken, that's my nickname?
+- What would you like to eat ?
+- 
+- Have you try any Fench restraunt in Vietnam ?
+- 
+- "I recommend you should have a taste at Tour les jours on Nguyen Thi Minh Khai, they serve great pastry and beverages. I used to go there a lot when I was working at a company near it.
+- ""

@@ -1,0 +1,2 @@
+- When violate the time spend for relax activities, make extra time for deep-work sesion before start the lock
+- 
