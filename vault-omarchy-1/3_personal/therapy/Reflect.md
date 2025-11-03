@@ -1,0 +1,31 @@
+Here are my current issues:
+- Failure: 
+	- I find it really exhausting when encounter some failure, then I believe the failures stem from my internal. I don't know how to deal with it.
+- Rest issue: 
+	- I can't focus at night. night works seem unproductive to me. Sleep early and wake up early is quite good. But I can't sleep easily and in the morning, I can't be awake easily.
+	- In the morning, I can't focus easy either, I will stumble on some music videos/blogs 
+	- I can focus best when I'm at a cafeteria, which available to me only on Saturday/Sunday. I don't know why, it's maybe the feeling of somebody may watch you (sometime), or just the habits when I'm at cf
+- Emotion issues:
+	- I often feel indifferent to things, of which I should be more reactive in order to get people's respect, or at least build my active's habit. I don't know to be a caring person
+- Social contact issue: 
+	- Can't have a smooth conversation with people around me.
+- Messaging: 
+	- I don't want to receive messages, and I spend long time reply to messages. I scare of phone call too
+- Teamwork: I'm great at working alone. But bad at stuffs like giving juniors insights 
+- Reflection: I feel like I should reflect on everyday activities, but I have always skip it 
+- Habit: I have trouble maintaining good habit.
+- Productivity: I perform worst at home. I can focus at work, or at cafeteria. 
+
+I want to:
+- Know what are my sypmtons
+- Be driven to achieve my goals
+- Be consistent with good habit
+- Cut off bad habits completely
+- Have a good relationship with others
+--- 
+- Think of great people, I want to be like them, actually I can be like them, I am just missing what mindset they have:
+	- Determination
+	- Love for what they do
+	- Discipline (not monkeying around)
+---
+- Stop monkeying around: I often monkey around too much, not paying full attention to my activity

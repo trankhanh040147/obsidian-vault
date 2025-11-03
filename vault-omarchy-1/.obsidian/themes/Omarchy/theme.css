@@ -1,5 +1,5 @@
 /* Omarchy Theme for Obsidian */
-/* Generated on Tue Oct 21 07:51:12 AM +07 2025 from theme: catppuccin-latte */
+/* Generated on Mon Nov  3 07:44:00 AM +07 2025 from theme: catppuccin-latte */
 /* Colors sorted by frequency, backgrounds by distance */
 
 .theme-dark, .theme-light {
@@ -13,7 +13,7 @@
   --background-secondary-alt: #eff1f5;
 
   /* Code block colors (always distance-based) */
-  --code-background: #bcc0cc;
+  --code-background: #e5e7eb;
   --code-foreground: #5c5f77;
 
   /* Border color from btop theme */
@@ -35,8 +35,8 @@
   --text-mark: #179299;
   --interactive-accent: #bcc0cc;
   --blockquote-border: #acb0be;
-  --text-muted: #9ca0b0;  /* Use border color for muted text */
-  --text-faint: #9ca0b0;  /* Use border color for faint text */
+  --text-muted: #4c4f69;  /* Use text-specific color for muted text */
+  --text-faint: #4c4f69;  /* Use text-specific color for faint text */
 
   /* Additional mappings */
   --text-accent: var(--interactive-accent);

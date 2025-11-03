@@ -1,0 +1,24 @@
+- outset
+	- at/from the outset
+- utopia
+- dialect
+- dialectic
+- undertake 
+- overtake
+- wing it
+	- == improvise (?)
+- entrust
+- thrive on
+- invigorate (v)
+- dilate (v)
+- tune out
+- recite
+---
+**03/11/2025**
+- future-proof
+- obsolete
+- pragmatic
+- septic
+- capstone
+- ergo
+- unary
