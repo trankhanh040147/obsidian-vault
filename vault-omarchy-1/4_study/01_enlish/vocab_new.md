@@ -22,3 +22,21 @@
 - capstone
 - ergo
 - unary
+- heretical
+> This town of Shibuya holds what you could call a heretical touch
+- orthodox
+- sadistic 
+- tendency
+> She has slight sadistic tendencies
+- brim (v)
+	- full to the brim
+- flirt around
+- amass
+- stench
+- scent
+- whiff
+	- stench vs scent vs whif vs smell vs ...
+- fragarance
+- aroma
+- odor
+- perfume
