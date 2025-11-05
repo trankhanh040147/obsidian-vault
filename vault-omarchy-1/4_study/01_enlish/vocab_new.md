@@ -40,3 +40,7 @@
 - aroma
 - odor
 - perfume
+---
+**05/11/2025**
+- implode (v):
+	- vs explode
