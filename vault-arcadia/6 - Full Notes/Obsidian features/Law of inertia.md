@@ -1,0 +1,1 @@
+The Law of Interia is one of the [[Three laws of notion]]

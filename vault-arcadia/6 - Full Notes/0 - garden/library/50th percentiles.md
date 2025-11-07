@@ -1,0 +1,1 @@
+- [[50th percentiles]] hay còn gọi là **p50** là **18ms**, nghĩa là 50% user sẽ trải nghiệm độ trễ thấp hơn 18ms.

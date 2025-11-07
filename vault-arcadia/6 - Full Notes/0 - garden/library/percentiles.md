@@ -1,0 +1,1 @@
+ Percentiles là phương pháp cho biết có bao nhiêu phần trăm dữ liệu nhỏ hơn một mốc giá trị cụ thể

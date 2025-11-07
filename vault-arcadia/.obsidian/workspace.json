@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "9ac41fb92765016d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca5fdebb681075d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78c23c2636df9707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/2 - daily/2025-11-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-07"
+            }
+          },
+          {
+            "id": "c9ff27b42f682e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/0 - garden/Defense Gateway.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Defense Gateway"
+            }
+          },
+          {
+            "id": "85fcea6011dad6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/0 - garden/KPI Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KPI Project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d463e31e37774b47",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b4e7803b407810c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67e9b456f27cd519",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef5caf42be674726",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "docker build",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "df107df410061ed7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7708ff6f4ae5dc63",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b078f710eed4c8e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a5a0229681b87ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94d7aa4be37b5482",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Full Notes/2 - daily/2025-10-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-10-22"
+            }
+          },
+          {
+            "id": "43159d6cb7d32e52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Full Notes/2 - daily/2025-10-22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-10-22"
+            }
+          },
+          {
+            "id": "f1dabb32360f9df5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "06d0b5b4ca3d7076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Full Notes/2 - daily/2025-10-22.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-10-22"
+            }
+          },
+          {
+            "id": "4497352371dc924b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "78c23c2636df9707",
+  "lastOpenFiles": [
+    "6 - Full Notes/0 - garden/KPI Project.md",
+    "6 - Full Notes/0 - garden/Defense Gateway.md",
+    "6 - Full Notes/2 - daily/2025-11-07.md",
+    "6 - Full Notes/0 - garden/Key-encapsulation mechanism (KEM).md",
+    "6 - Full Notes/1 - codes/3 - prompt/KPI.md",
+    "6 - Full Notes/1 - codes/3 - prompt/kafka-partitioning.md",
+    "6 - Full Notes/backlog.md",
+    "6 - Full Notes/2 - daily/2025-11-06.md",
+    "6 - Full Notes/1 - codes/0 - cmd/container/trivy/build.md",
+    "6 - Full Notes/1 - codes/0 - cmd/container/trivy/trivy.md",
+    "6 - Full Notes/2 - daily/tlog/2025-10/2025-10-01.md",
+    "6 - Full Notes/2 - daily/tlog/2025-10",
+    "6 - Full Notes/RequestOps - STask.md",
+    "6 - Full Notes/0 - garden/Soft Delete.md",
+    "6 - Full Notes/0 - garden/Kiến trúc hướng sự kiện (Event-Driven Architecture).md",
+    "6 - Full Notes/2 - daily/2025-11-05.md",
+    "6 - Full Notes/2 - daily/2025-11-04.md",
+    "6 - Full Notes/0 - garden/Bulk Download.md",
+    "6 - Full Notes/1 - codes/0 - cmd/hardware/Gnome Optimization.md",
+    "6 - Full Notes/1 - codes/0 - cmd/hardware/Gnome Extensions.md",
+    "6 - Full Notes/3 - personal/vocab/new-vocab.md",
+    "6 - Full Notes/1 - codes/0 - cmd/hardware/check disk.md",
+    "6 - Full Notes/2 - daily/2025-11-03.md",
+    "6 - Full Notes/TEMP.md",
+    "6 - Full Notes/0 - garden/Elasticstack.md",
+    "6 - Full Notes/0 - garden/Untitled.md",
+    "6 - Full Notes/1 - codes/uncategorized/mino.md",
+    "6 - Full Notes/1 - codes/uncategorized",
+    "6 - Full Notes/1 - codes/0 - cmd/container",
+    "6 - Full Notes/1 - codes/0 - cmd/generator",
+    "6 - Full Notes/1 - codes/0 - cmd/hardware",
+    "Untitled",
+    "Guidebook.canvas",
+    "6 - Full Notes/3 - personal/vocab",
+    "2 - Source Material/Untitled",
+    "6 - Full Notes/english",
+    "6 - Full Notes/hardware/keyboard",
+    "6 - Full Notes 1/0 - garden/library/blockchain/attachments/Pasted image 20250717154717.png",
+    "6 - Full Notes 1/0 - garden/library/blockchain/attachments/Pasted image 20250717114142.png",
+    "6 - Full Notes 1/projects/drmanager/blah/training-doctor-manager.canvas",
+    "6 - Full Notes 1/projects/drmanager/blah/Untitled.canvas",
+    "6 - Full Notes 1/projects/drmanager/blah/Cấu trúc JWT.png",
+    "6 - Full Notes 1/0 - garden/library/attachments/Pasted image 20250716155304.png",
+    "6 - Full Notes 1/0 - garden/library/attachments/worker pool in go.png",
+    "6 - Full Notes 1/0 - garden/library/Pasted image 20251017150344.png",
+    "6 - Full Notes 1/0 - garden/library/Pasted image 20250825115709.png",
+    "6 - Full Notes 1/2 - daily/attachments/Pasted image 20251022113429.png",
+    "deepseek.png",
+    "6 - Full Notes/0 - garden/library/blockchain/attachments/Pasted image 20250717114142.png",
+    "6 - Full Notes/Untitled.canvas",
+    "6 - Full Notes/projects/drmanager/blah/Untitled.canvas",
+    "Untitled.canvas",
+    "6 - Full Notes/projects/drmanager/blah/training-doctor-manager.canvas",
+    "Untitled 1.canvas"
+  ]
+}

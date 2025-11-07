@@ -1,0 +1,16 @@
+#index
+- Tạo index:
+	- Nhập sai connection
+	- Bỏ trống field/value
+	- điền value == 0
+	- Không nhập name
+	- tạo trùng name
+	- tạo trùng key --> show KeyString
+	- status: 201
+- Update index
+	- sai index_id
+- Get index
+	- 
+- Get indexes:
+	- 
+- Delete index

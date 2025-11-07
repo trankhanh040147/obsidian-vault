@@ -1,0 +1,19 @@
+{
+  "spellcheck": false,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Full Notes/0 - garden",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./attachments"
+}

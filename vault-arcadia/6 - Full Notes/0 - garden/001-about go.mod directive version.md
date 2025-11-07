@@ -1,0 +1,2 @@
+- what is the difference between <go 1.23> vs <go 1.23.0>
+- usage of go mod -go=1.23

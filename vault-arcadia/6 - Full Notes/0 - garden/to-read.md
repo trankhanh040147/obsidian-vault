@@ -1,0 +1,3 @@
+- [ ] https://infosecwriteups.com/why-you-need-a-digital-garden-how-to-start-guide-a1f30f818c75
+- [ ] jzhao.xyz (quartz4 --> digital garden)
+- [ ] 

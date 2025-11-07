@@ -1,0 +1,3 @@
+- neovim is great, but why devs aren't using it more ?
+- neovim is "The editor of tommorrow but with yesterday's user experience"
+- in the ever-evolving landscape of development tools. NeoVim stand as a [afafaf|[]] to the philosophy that "less ir more"

@@ -1,0 +1,11 @@
+- [ ] ed25519 keypair alternatives 
+- [ ] ed25519 format --> how to generate 
+- [ ] hugo
+
+- [ ] long polling
+- [ ] SSE (server sent event)
+- [ ] Websocket Bridge
+- [ ] mongo: bson.A, M, D,...
+- [ ] mongo: replaceRoot
+- [ ] use vim-go
+- [ ] octo-protocol

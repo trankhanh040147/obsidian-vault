@@ -1,0 +1,1 @@
+>  A [[first-party cookie]] implies that it cannot be used to track users across websites, as it is et under the website's domain. That means the same user has different _fbp cookies on different websites. However, the method we disclose (Meta & Yandex) allows the linking of the different _fbp_ cookies to the same user, which by passes

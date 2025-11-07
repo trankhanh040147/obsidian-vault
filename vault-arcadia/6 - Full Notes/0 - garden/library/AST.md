@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Abstract_syntax_tree
+
+An **abstract syntax tree** (**AST**) is a data structure used in [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") to represent the structure of a program or code snippet. It is a [tree](https://en.wikipedia.org/wiki/Tree_\(data_structure\) "Tree (data structure)") representation of the [abstract syntactic](https://en.wikipedia.org/wiki/Abstract_syntax "Abstract syntax") structure of text (often [source code](https://en.wikipedia.org/wiki/Source_code "Source code")) written in a [formal language](https://en.wikipedia.org/wiki/Formal_language "Formal language"). Each node of the tree denotes a construct occurring in the text. It is sometimes called just a **syntax tree**.

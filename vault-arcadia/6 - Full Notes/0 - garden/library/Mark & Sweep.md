@@ -1,0 +1,5 @@
+- All the objects which are created dynamically (using new in C++ and Java) are allocated memory in the heap
+	- allocate memory for object --> heap 
+	- stores references to the object for variable in method call or variable instantiation --> stack
+	- stores loaded classes information --> Perm space
+- https://stackoverflow.com/questions/6801676/heap-vs-stack-vs-perm-space
