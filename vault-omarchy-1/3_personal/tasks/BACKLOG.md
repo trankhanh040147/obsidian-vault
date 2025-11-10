@@ -6,10 +6,9 @@
 ---
 ## Productivity setup
 #obsidian 
-- [ ] test base feature (used for ?)
 - [ ] Obsidian Sync
 	- [ ] https://www.reddit.com/r/ObsidianMD/comments/162msx1/how_to_sync_vaults_across_mobile_and_desktop/
-#omarchy-playground
+#omarchy
 - [ ] **Gestures**
 	- [ ] What else ? 😁
 - [ ] **Shortcut Keys**

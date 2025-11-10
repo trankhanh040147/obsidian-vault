@@ -44,3 +44,8 @@
 **05/11/2025**
 - implode (v):
 	- vs explode
+--- 
+**10/11/2025**
+- feasible (a):
+	- Binary substraction is feasible
+- 
