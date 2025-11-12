@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51cfe2018f7b00c5",
+            "id": "9cf79ecc463de9d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_personal/daily/2025-11-10.md",
+                "file": "3_personal/daily/2025-11-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-10"
+              "title": "2025-11-12"
             }
           },
           {
-            "id": "5e7d4afbcbb63868",
+            "id": "1c2f533802648906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_study/02_leetcode/2571.md",
+                "file": "5_projects/drmanager/cursor/PRE_DEVELOPMENT_CHECKLIST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2571"
-            }
-          },
-          {
-            "id": "eb3f06031b69bd5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_study/01_enlish/vocab_new.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vocab_new"
+              "title": "PRE_DEVELOPMENT_CHECKLIST"
             }
           }
         ]
@@ -81,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#leetcode",
+                "query": "tag:#daily-dictation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,12 +98,12 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 279.5026054382324
   },
   "right": {
     "id": "25b04c4125ce32a9",
@@ -211,13 +197,28 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "51cfe2018f7b00c5",
+  "active": "9cf79ecc463de9d0",
   "lastOpenFiles": [
+    "5_projects/drmanager/cursor/prompts/remember.md",
+    "5_projects/drmanager/cursor/prompts/frontend-prompt.md",
+    "5_projects/drmanager/cursor/FRONTEND_DEVELOPMENT_PLAN.md",
+    "5_projects/drmanager/cursor/PRE_DEVELOPMENT_CHECKLIST.md",
+    "5_projects/drmanager/cursor/prompts",
+    "5_projects/drmanager/cursor/API_DOCUMENTATION.md",
+    "3_personal/daily/2025-11-12.md",
+    "3_personal/daily/2025-11-11.md",
     "4_study/02_leetcode/2571.md",
+    "3_personal/daily/2025-11-02.md",
+    "5_projects/drmanager/Missing features.md",
+    "5_projects/drmanager/cursor",
+    "5_projects/drmanager",
+    "5_projects",
+    "1_tools/Cursor",
     "3_personal/daily/2025-11-10.md",
+    "____.md",
+    "4_study/01_enlish/vocab_new.md",
     "3_personal/daily/2025-11-10 -> 2025-11-16.md",
     "Excalidraw/Drawing 2025-11-10 07.45.37.excalidraw.md",
-    "4_study/01_enlish/vocab_new.md",
     "4_study/02_leetcode/DSA/MinHeap.md",
     "3_personal/daily/2025-11-07.md",
     "3_personal/daily/2025-11-09.md",
@@ -233,22 +234,7 @@
     "_archive",
     "4_study/02_leetcode/795.md",
     "3_personal/daily/2025-11-04.md",
-    "3_personal/daily/2025-11-03.md",
-    "3_personal/finance.md",
-    "2_data/courses/CS Fundamentals.md",
-    "2_data/courses/System Design.md",
-    "3_personal/daily/2025-11-02.md",
     "2_data/courses",
-    "2_data/articles/websocket.md",
-    "1_tools/LLM/prompts/Web Chat.md",
-    "2_data/articles",
-    "1_tools/LLM/prompts/Perplexity.md",
-    "3_personal/daily/2025-11-02.md~",
-    "_archive/daily/2025-10/2025-10-30.md",
-    "_archive/daily/2025-10/2025-10-29.md",
-    "1_tools/LLM/prompts",
-    "1_tools/LLM",
-    "Excalidraw",
     "themes/TIPS for Blue Topaz/Attachemnt/╚├╫╙╡»╖╔║ú▒¿.jpg",
     "themes/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "themes/TIPS for Blue Topaz/Attachemnt/cat.gif",
