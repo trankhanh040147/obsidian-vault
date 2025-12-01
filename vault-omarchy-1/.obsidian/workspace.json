@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_personal/daily/2025-11-17 -> 2025-11-23 1.md",
+                "file": "5_projects/git-reviewer/kpi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-17 -> 2025-11-23 1"
+              "title": "kpi"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50043487548828
+    "width": 234.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "25b04c4125ce32a9",
@@ -199,8 +200,9 @@
   },
   "active": "10b743fd9077c80a",
   "lastOpenFiles": [
-    "3_personal/daily/2025-11-30.md",
     "3_personal/daily/2025-11-17 -> 2025-11-23 1.md",
+    "5_projects/git-reviewer/kpi.md",
+    "3_personal/daily/2025-11-30.md",
     "3_personal/daily/2025-12-01.md",
     "5_projects/git-reviewer/prompt.md",
     "5_projects/git-reviewer",
@@ -228,7 +230,6 @@
     "1_tools/Untitled",
     "3_personal/daily/2025-11-24.md",
     "3_personal/daily/2025-11-22.md",
-    "1_tools/LLM/prompts/Book_recommendations.md",
     "leetcode",
     "6_templates",
     "5_projects/drmanager/cursor/prompts",
