@@ -1,2 +1,2 @@
 *Remeber: 
-- Always update @FRONTEND_DEVELOPMENT_PLAN.md  and keep in context
+- Always update @FE_PLAN.md  and keep in context

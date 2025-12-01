@@ -48,4 +48,164 @@
 **10/11/2025**
 - feasible (a):
 	- Binary substraction is feasible
+---
+**16/11/2025**
+- gut (n):
+- intestine (n): 
+- bowel (n):
+- stringer: 
+	- a photographer or journalist who works for various news companies rather than being employed by a single company:
+	- someone whose job is to put new strings on the rackets used in tennis and similar sports:
+	- a line on which fish that have been caught are hung:
+	- ...
+- tract (n): 
+	- digestive tract
+- nomenclature (n):
+- murky (a): 
+- sweet(en?):
+	- I can sweeten the deal with some street balls in exchange
+- glyph (n):
+- pictogram
+	- vs emoji ?
+- transcend
+- hazard:
+	- hazard a guess
+- underneath
+- consortium
+- germane
+- darn 
+- top off
+- sonorous
+- suffice
+- partway
+---
+**18/11/2025**
+- vernacular 
+	- vernacular of English
+- succint (a):
+- salient
+- proverbial
+---
+**19/11/2025**
+- sluggish
+- altruistic
+- acute
+- silver lining
+- autobiographical
+	- autobiographical planning
+- stimuli
+- tissue
+- semantic
+---
+**21/11/2025**
+- hectares
+- lifeboat
+- council
+- footwear
+- wear out
+- Tardigrades
+- piglets
+- respiratory
+- stylets
+- **Cryptobiosis**
+- moss
+- disc
+- disks
+- endangered
+- indestructible
+
+- metabolism
+- extraterrestrial
+- frisbee
+
+**CS50 Week0**
+- escalate 
+- cryptic
+- albeit
+- nitty-gritty
+- pedagogic
 - 
+---
+**22/11/2025**
+- retention
+- lore 
+- taut 
+- rubber
+- coeff (coefficient) 
+---
+**24/11/2025**
+- humongous (a);
+- chamber
+- flywheel
+---
+**25/11/2025**
+- insidious (a):
+- perpetuated
+- repel:
+	- repelling force
+- elicit 
+- gratification
+- weather a rocky patch 
+- entail
+	- any act that entails commitment of the heart
+- endeavor
+- abdominal
+- regimen
+- nautical
+- weather (v): to come safely through a storm
+- to weather a rocky patch in a relationship
+	- Weather (Verb) - C2
+		- Note: It’s not just "experiencing" the weather; it’s surviving it.
+	- Rocky (Adjective) - B2
+		- Meaning: Unstable, rough, full of obstacles (like a road full of stones).
+	- Key nuance: A "patch" is temporary. It implies the trouble won't last forever.
+	- Full Meaning: "To stay together and endure a temporary period of fighting, stress, or instability."
+- patch 
+
+---
+**26/11/2025**
+- proximate
+---
+**27/11/2025**
+- oblige
+- grimace
+- browbeaten
+- overstrained
+- verge on 
+- hypochondria
+- dreaded
+- cease
+- pester
+- rack sb brain
+- acute
+- trifle
+- axiom
+- babble
+- plaything
+---
+**29/11/2025**
+- seals (n)
+- dandruff
+- eyesore
+- sled (n,v)
+- nosy
+- thumb your nose at st
+- reiterate (v)
+- dingus
+- swell
+- wonky
+- limp
+- kick away
+- burnout (? person)
+- waffle
+	- waffle mix ?
+---
+**01/12/2025**
+- solemnity
+- resolute
+- venture
+	- May I venture == ?
+- titular
+- councilor
+	- titular councilor ?
+---	
