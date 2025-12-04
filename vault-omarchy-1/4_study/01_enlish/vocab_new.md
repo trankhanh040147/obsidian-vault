@@ -209,3 +209,43 @@
 - councilor
 	- titular councilor ?
 ---	
+**02/12/2025**
+- destitution
+- innate
+- nobility
+- barge
+	- hay barge
+- languide
+- snigger
+- exclusive
+- ache
+- exemplary
+- parenthesis
+- composure
+- guffawed
+---
+**03/12/2025**
+<C&P>
+- quarrel (v, n)
+- shawl (n):
+- personage:
+- consumption (disease): An old-fashioned name for **Tuberculosis (TB)**. It was called "consumption" because the disease caused the sufferer to waste away (lose weight drastically) as if the body was being "consumed."
+- waste away
+- scrub
+	- ? rub
+- mohair
+	- mohair shawl 
+- assent (v)
+- redouble
+- unjust vs unfair
+- subside
+- semblance
+- scoundrel
+---
+**04/12/2025**
+- conscientious 
+- adorn (v)
+- monument
+- jug
+- calamity
+---
