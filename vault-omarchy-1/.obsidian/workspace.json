@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_projects/nexu-ai/project-requirements.md",
+                "file": "5_projects/nexu-ai/plans/PLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project-requirements"
+              "title": "PLAN"
             }
           }
         ],
@@ -199,10 +199,17 @@
   },
   "active": "23fc0e0588e2b493",
   "lastOpenFiles": [
+    "5_projects/nexu-ai/plans/ARCHITECTURE.md",
+    "5_projects/nexu-ai/project-requirements.md",
+    "5_projects/nexu-ai/plans/README.md",
+    "5_projects/nexu-ai/plans/prompt.md",
+    "5_projects/nexu-ai/plans/progress.md",
+    "5_projects/nexu-ai/plans/PLAN.md",
+    "5_projects/nexu-ai/cursor_docs/ARCHITECTURE.md",
+    "5_projects/nexu-ai/plans",
     "5_projects/nexu-ai/cursor_docs/README.md",
     "5_projects/nexu-ai/cursor_docs/PLAN.md",
     "5_projects/nexu-ai/phase1.md",
-    "5_projects/nexu-ai/project-requirements.md",
     "5_projects/nexu-ai/Untitled",
     "5_projects/nexu-ai/backlog.md",
     "5_projects/nexu-ai/api_document.md",
@@ -225,16 +232,9 @@
     "5_projects/rev-cli/Development.md",
     "5_projects/rev-cli/prompt.md",
     "5_projects/nexu-ai/r&d",
-    "3_personal/daily/2025-11/2025-11-02.md",
-    "5_projects/rev-cli/kpi.md",
     "3_personal/daily/2025-11",
-    "3_personal/daily/2025-12-02.md",
-    "5_projects/atom/Prompt.md",
     "5_projects/atom",
     "Untitled",
-    "vocab.md",
-    "3_personal/daily/2025-12-01.md",
-    "5_projects/rev-cli",
     "themes/TIPS for Blue Topaz/Attachemnt/╚├╫╙╡»╖╔║ú▒¿.jpg",
     "themes/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
     "themes/TIPS for Blue Topaz/Attachemnt/cat.gif",
